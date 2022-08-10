@@ -31,7 +31,7 @@
 
 
 <p align="left"> 
-   <img align="right" width="auto" alt="gif intro" src="https://user-images.githubusercontent.com/62103572/183892113-8e53d8bc-b7bc-4562-a145-2b57fb15d83e.gif">
+   <img align="right" width="400" alt="gif intro" src="https://user-images.githubusercontent.com/62103572/183892113-8e53d8bc-b7bc-4562-a145-2b57fb15d83e.gif">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" /> </a> 
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
