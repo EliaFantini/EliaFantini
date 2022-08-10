@@ -16,9 +16,16 @@
 
 - I work on and love AI (Data Science, Machine Learning and Deep Learning), especially applied to my main areas of interest and passions: Computer Vision🤖, Computer Graphics💻, Virtual Reality🥽, Game Development🕹️, Music🎸 and Art🎨.
 
+## :link: Contact me
 
+<p align="left">
+  <a href="https://github.com/EliaFantini/"><img height="40" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="portfolio"/></a>
+  <a href="mailto:elia.fantini99@gmail.com"><img height="40" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/-elia-fantini/"><img height="40" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/e.l.i.j.a.h__/"><img height="40" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+</p>
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">🧰 Languages and Tools</h2>
 
 <h3 align="left">Languages:</h3>
 
@@ -76,15 +83,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliafantini&show_icons=true&locale=en&layout=compact" alt="eliafantini" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliafantini&show_icons=true&locale=en" alt="eliafantini" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliafantini&" alt="eliafantini" /></p>
-
-## :link: Links to contact me
-
-<p align="left">
-  <a href="https://github.com/EliaFantini/"><img height="40" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="portfolio"/></a>
-  <a href="mailto:elia.fantini99@gmail.com"><img height="40" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/-elia-fantini/"><img height="40" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/e.l.i.j.a.h__/"><img height="40" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-</p>
-
