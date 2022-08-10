@@ -2,18 +2,29 @@
    <img width="auto" alt="gif intro" src="https://user-images.githubusercontent.com/62103572/183869679-3096d0ec-2dac-4d66-ae4d-3ea9bb095f3c.gif">
 </p>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" /> About Me:
+<p align="center">
+   <a href="https://github.com/EliaFantini" target="_blank" rel="noreferrer"> <img width="auto" alt="gif intro" src="https://img.shields.io/github/followers/EliaFantini?logo=GitHub&style=for-the-badge"></a>
+      <a href="https://github.com/EliaFantini" target="_blank" rel="noreferrer"> <img width="auto" alt="gif intro" src="https://img.shields.io/github/stars/EliaFantini?logo=github&style=for-the-badge"></a>
+ </p>
+ 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" /> About Me <img align="right" width="auto" alt="gif intro" src="https://visitor-badge.glitch.me/badge?page_id=EliaFantini.EliaFantini&left_color=black&right_color=grey">
 
 - I'm a MSc Data Science student at EPFL (Ecole polytechnique fédérale de Lausanne <img src="https://user-images.githubusercontent.com/62103572/183879328-971b1df1-73ed-438f-8152-9e84f4c57ae9.png" width="18"> ). I graduated with a Bachelor's degree in Engineering of Computing Systems🎓 at Politecnico di Milano <img src="https://user-images.githubusercontent.com/62103572/183878090-09ae067a-51dc-47a1-91f1-f853f12a25d3.png" width="15">, but I was born and raised in the oldest republic of the world, San Marino <img src="https://user-images.githubusercontent.com/62103572/183881048-1df981f4-8f7c-42ec-9f10-f69ae2631e00.png" width="18">!
 
 
 - I use my GitHub profile as a **projects portfolio**, hence all the repositories I have are projects that I personally worked on and coded, either alone or in wonderful teams👥.
 
-- My work on and love AI (Data Science, Machine Learning and Deep Learning), especially applied to my main area of interests and passions: Computer Vision🤖, Computer Graphics💻, Virtual Reality🥽, Game Development🕹️, Music🎸 and Art🎨.
+- I work on and love AI (Data Science, Machine Learning and Deep Learning), especially applied to my main areas of interest and passions: Computer Vision🤖, Computer Graphics💻, Virtual Reality🥽, Game Development🕹️, Music🎸 and Art🎨.
+
+
 
 <h2 align="left">Languages and Tools</h2>
+
 <h3 align="left">Languages:</h3>
+
+
 <p align="left"> 
+   <img align="right" width="auto" alt="gif intro" src="https://user-images.githubusercontent.com/62103572/183892113-8e53d8bc-b7bc-4562-a145-2b57fb15d83e.gif">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -60,13 +71,20 @@
     <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
-## :link: Links
+## Statistics
 
-<p align="center">
-  <a href="https://github.com/EliaFantini/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="portfolio"/></a>
-  <a href="mailto:elia.fantini99@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/-elia-fantini/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/e.l.i.j.a.h__/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliafantini&show_icons=true&locale=en&layout=compact" alt="eliafantini" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliafantini&show_icons=true&locale=en" alt="eliafantini" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliafantini&" alt="eliafantini" /></p>
+
+## :link: Links to contact me
+
+<p align="left">
+  <a href="https://github.com/EliaFantini/"><img height="40" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="portfolio"/></a>
+  <a href="mailto:elia.fantini99@gmail.com"><img height="40" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/-elia-fantini/"><img height="40" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/e.l.i.j.a.h__/"><img height="40" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 </p>
-
 
