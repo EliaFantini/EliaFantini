@@ -19,7 +19,7 @@
 ## :link: Contact me
 
 <p align="left">
-  <a href="https://github.com/EliaFantini/"><img height="40" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="portfolio"/></a>
+  <a href="https://eliafantini.github.io/Portfolio/"><img height="40" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="portfolio"/></a>
   <a href="mailto:elia.fantini99@gmail.com"><img height="40" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/-elia-fantini/"><img height="40" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.instagram.com/e.l.i.j.a.h__/"><img height="40" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
