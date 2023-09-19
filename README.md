@@ -7,8 +7,7 @@
       <a href="https://github.com/EliaFantini" target="_blank" rel="noreferrer"> <img width="auto" alt="gif intro" src="https://img.shields.io/github/stars/EliaFantini?logo=github&style=for-the-badge"></a>
  </p>
  
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" /> About Me <img align="right" width="auto" alt="gif intro" src="https://visitor-badge.glitch.me/badge?page_id=EliaFantini.EliaFantini&left_color=black&right_color=grey">
-
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" /> About Me <img align="right" width="auto" alt="" src="https://komarev.com/ghpvc/?username=EliaFantini&color=brightgreen&style=for-the-badge">
 - I'm a MSc Data Science student at EPFL (Ecole polytechnique fédérale de Lausanne <img src="https://user-images.githubusercontent.com/62103572/183879328-971b1df1-73ed-438f-8152-9e84f4c57ae9.png" width="18"> ). I graduated with a Bachelor's degree in Engineering of Computing Systems🎓 at Politecnico di Milano <img src="https://user-images.githubusercontent.com/62103572/183878090-09ae067a-51dc-47a1-91f1-f853f12a25d3.png" width="15">, but I was born and raised in the oldest republic of the world, San Marino <img src="https://user-images.githubusercontent.com/62103572/183881048-1df981f4-8f7c-42ec-9f10-f69ae2631e00.png" width="18">!
 
 
