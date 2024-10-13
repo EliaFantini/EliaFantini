@@ -8,20 +8,20 @@
  </p>
  
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" /> About Me <img align="right" width="auto" alt="" src="https://komarev.com/ghpvc/?username=EliaFantini&color=brightgreen&style=for-the-badge">
-- I'm a MSc Data Science student at EPFL (Ecole polytechnique fédérale de Lausanne <img src="https://user-images.githubusercontent.com/62103572/183879328-971b1df1-73ed-438f-8152-9e84f4c57ae9.png" width="18"> ). I graduated with a Bachelor's degree in Engineering of Computing Systems🎓 at Politecnico di Milano <img src="https://user-images.githubusercontent.com/62103572/183878090-09ae067a-51dc-47a1-91f1-f853f12a25d3.png" width="15">, but I was born and raised in the oldest republic of the world, San Marino <img src="https://user-images.githubusercontent.com/62103572/183881048-1df981f4-8f7c-42ec-9f10-f69ae2631e00.png" width="18">!
+- I'm an AI Engineer at SRG SSR, responsible for designing, implementing, and optimizing cutting-edge AI solutions to address complex challenges across various domains (R&D).
+- I graduated with a MSc Data Science at EPFL (Ecole polytechnique fédérale de Lausanne <img src="https://user-images.githubusercontent.com/62103572/183879328-971b1df1-73ed-438f-8152-9e84f4c57ae9.png" width="18"> ). I got my Bachelor's degree in Engineering of Computing Systems🎓 at Politecnico di Milano <img src="https://user-images.githubusercontent.com/62103572/183878090-09ae067a-51dc-47a1-91f1-f853f12a25d3.png" width="15">, but I was born and raised in the oldest republic of the world, San Marino <img src="https://user-images.githubusercontent.com/62103572/183881048-1df981f4-8f7c-42ec-9f10-f69ae2631e00.png" width="18">!
 
 
 - I use my GitHub profile as a **projects portfolio**, hence all the repositories I have are projects that I personally worked on and coded, either alone or in wonderful teams👥.
 
-- I work on and love AI (Data Science, Machine Learning and Deep Learning), especially applied to my main areas of interest and passions: Computer Vision🤖, Computer Graphics💻, Virtual Reality🥽, Game Development🕹️, Music🎸 and Art🎨.
+- I work on and love AI (Data Science, Machine Learning, Deep Learning, Generative AI), especially applied to my main areas of interest and passions: Computer Vision🤖, Computer Graphics💻, Virtual Reality🥽, Game Development🕹️, Music🎸 and Art🎨.
 
 ## :link: Contact me
 
 <p align="left">
   <a href="https://eliafantini.github.io/Portfolio/"><img height="40" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="portfolio"/></a>
-  <a href="mailto:elia.fantini99@gmail.com"><img height="40" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="mailto:elia.fantini@alumni.epfl.ch"><img height="40" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/-elia-fantini/"><img height="40" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/e.l.i.j.a.h__/"><img height="40" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 </p>
 
 <h2 align="left">🧰 Languages and Tools</h2>
@@ -46,6 +46,9 @@
 <p align="left"> 
       <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
+  
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
